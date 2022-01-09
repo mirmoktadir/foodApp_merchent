@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "216607447515",
+    "project_id": "foodbank-3afa0",
+    "storage_bucket": "foodbank-3afa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216607447515:android:98499bd3f358f04253affe",
+        "android_client_info": {
+          "package_name": "com.inilabs.foodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216607447515-ko9fi3v5vvue275tph1807gfvmn8eth2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inilabs.foodbank",
+            "certificate_hash": "2a2b4092fee0c63cb0330a61d92a3cf33d2453f0"
+          }
+        },
+        {
+          "client_id": "216607447515-4vmdis73m689b0vks4bb8fnu02nst7i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbFsM155O3Hv1IfEgz8XSAy2B7N9pFJ6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216607447515-4vmdis73m689b0vks4bb8fnu02nst7i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216607447515:android:ea29fbc9668e9e8e53affe",
+        "android_client_info": {
+          "package_name": "com.inilabs.foodbank.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216607447515-jmckjn2srp7sf7r6tr22a48lv6n8ea8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inilabs.foodbank.delivery",
+            "certificate_hash": "2a2b4092fee0c63cb0330a61d92a3cf33d2453f0"
+          }
+        },
+        {
+          "client_id": "216607447515-4vmdis73m689b0vks4bb8fnu02nst7i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbFsM155O3Hv1IfEgz8XSAy2B7N9pFJ6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216607447515-4vmdis73m689b0vks4bb8fnu02nst7i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216607447515:android:c7f99d63aeb0024a53affe",
+        "android_client_info": {
+          "package_name": "com.inilabs.foodbank.marchantise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216607447515-utl47asspdo7vkeli95lgv5v0bkvoed8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inilabs.foodbank.marchantise",
+            "certificate_hash": "2a2b4092fee0c63cb0330a61d92a3cf33d2453f0"
+          }
+        },
+        {
+          "client_id": "216607447515-4vmdis73m689b0vks4bb8fnu02nst7i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbFsM155O3Hv1IfEgz8XSAy2B7N9pFJ6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216607447515-4vmdis73m689b0vks4bb8fnu02nst7i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
